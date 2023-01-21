@@ -1,0 +1,14 @@
+body {
+    background-color:rgba(216, 196, 215, 0.801);
+  }
+  hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-color: antiquewhite;
+    border-width: 4px;
+    width: 10%;
+  }
+   h1{
+    -webkit-text-fiel-color:green;
+  }
+  
